@@ -1,0 +1,84 @@
+[
+    {
+        "id":1,
+        "name":"StoryBook",
+        "title":"Ananbella",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":2,
+        "name":"Music Book",
+        "title":"Ananbella",
+        "price": 350,
+        "category":"song",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":3,
+        "name":"Comedy Book",
+        "title":"Ananbella",
+        "price": 50,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    }
+    ,
+    {
+        "id":4,
+        "name":"HorrorStory Book",
+        "title":"Ananbella",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":5,
+        "name":"Fiction Book",
+        "title":"Ananbella",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":6,
+        "name":"Sports Book",
+        "title":"Ananbella",
+        "price": 35,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":7,
+        "name":"StoryBook",
+        "title":"Ananbella",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":8,
+        "name":"Fiction Book",
+        "title":"Ananbella",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":9,
+        "name":"Food Book",
+        "title":"Ananbella",
+        "price": 35,
+        "category":"dishes",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    },
+    {
+        "id":10,
+        "name":"StoryBook",
+        "title":"Ananbella",
+        "price": 0,
+        "category":"Free",
+        "image":"https://img.freepik.com/premium-photo/laptop-computer-stack-textbooks-sit-table-against-bright-orange-yellow-wall-this-image-represents-modern-learning-with-contemporary-feel-generative-ai_262708-31218.jpg?ga=GA1.1.1484387993.1720038643&semt=ais_hybrid"
+    }
+
+]
